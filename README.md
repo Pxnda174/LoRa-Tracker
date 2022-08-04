@@ -35,9 +35,9 @@ Software de desarrollo OPEN-SOURSE usado:
         </a>
       </td>      
       <td align="center" valign="middle">
-        <a href="https://processing.org/" target="_blank">
+        <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
           <!-- https://app.zipchi.ir/2020/08/Processing_cover_190896269746.jpg-->
-          <img width="222px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png">
+          <img width="222px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg">
         </a>
       </td>
     </tr><tr></tr>
