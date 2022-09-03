@@ -48,7 +48,7 @@ Para conocer más sobre la institución, por favor visite los siguientes enlaces
  
   <td align="center" valign="middle">
         <a href="https://www.kicad.org/" target="_blank">
-          <img width="200px" src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/KiCad-Logo.svg">
+          <img width="300px" src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/KiCad-Logo.svg">
         </a>
   </td> 
  
