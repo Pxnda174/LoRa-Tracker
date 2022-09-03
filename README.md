@@ -12,7 +12,7 @@ Para conocer más sobre la institución, por favor visite los siguientes enlaces
 - [Escuela Politécnica Nacional(EPN)](https://www.epn.edu.ec/)
 - [Departamento de Automatización y Control Industrial (DACI)](https://daci.epn.edu.ec/)
 
-Software de desarrollo OPEN-SOURSE usado:
+->Software de desarrollo OPEN-SOURSE usado:
 <p align="center"><a target="_black" rel="noopener noreferrer"><img width="100" src="https://cdn.worldvectorlogo.com/logos/open-source-hardware.svg" alt="DIY logo"></a></p>
  
  <table>
@@ -44,6 +44,10 @@ Software de desarrollo OPEN-SOURSE usado:
   </tbody>
 </table>
  
+ ->Software de prototipado CAD OPEN-SOURSE usado:
+<p align="center" <a href="https://www.kicad.org/" target="_blank">
+          <img width="200px" src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/KiCad-Logo.svg"></p>
+ </a>
  
  <h3 align="center"> Para el cálculo de la distancia entre dos puntos a partir de los datos de posición GPS, se lo realiza empleando
  un caso especial de la fórmula de Vincenty:</h3>
