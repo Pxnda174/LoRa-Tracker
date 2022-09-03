@@ -45,9 +45,13 @@ Para conocer más sobre la institución, por favor visite los siguientes enlaces
 </table>
  
  ->Software de prototipado CAD OPEN-SOURSE usado:
-<p align="center" <a href="https://www.kicad.org/" target="_blank">
-          <img width="200px" src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/KiCad-Logo.svg"></p>
- </a>
+ 
+  <td align="center" valign="middle">
+        <a href="https://www.kicad.org/" target="_blank">
+          <img width="200px" src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/KiCad-Logo.svg">
+        </a>
+  </td> 
+ 
  
  <h3 align="center"> Para el cálculo de la distancia entre dos puntos a partir de los datos de posición GPS, se lo realiza empleando
  un caso especial de la fórmula de Vincenty:</h3>
