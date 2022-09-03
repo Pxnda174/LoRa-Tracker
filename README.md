@@ -61,5 +61,5 @@ Software de desarrollo OPEN-SOURSE usado:
 
 <!--Diagrama de flujo del sistema receptor-->
  <h2 align="center"> Diagrama de flujo del sistema receptor:</h2>
-<img src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/Receptor_LoRa_ESP32.svg" width="3000" align="center"/>
+<img src="https://github.com/Pxnda174/Tesis_GPS_EPN/blob/main/Imagenes/Receptor_LoRa_ESP32_mod.svg" width="3000" align="center"/>
 
